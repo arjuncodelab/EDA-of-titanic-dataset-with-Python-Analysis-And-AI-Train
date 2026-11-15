@@ -13,7 +13,7 @@ A Random Forest Classifier is developed to predict passenger survival based on d
 - Analyze survival rates across different passenger groups.
 - Build and evaluate a Random Forest classification model.
 
-### Dataset (link)[https://www.kaggle.com/c/titanic/data?select=train.csv]
+### Dataset [Kaggle Dataset Link](https://www.kaggle.com/c/titanic/data?select=train.csv)
 The project uses titanic.csv, containing passenger information such as:
   - Age and Sex
   - Passenger Class
