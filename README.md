@@ -48,24 +48,7 @@ Titanic-Survival-Analysis/
 ├── Titanic_EDA.ipynb
 └── README.md
 ```
-### How to Run
-- Clone the repository:
 
-```
-bash
-git clone https://github.com/your-username/Titanic-Survival-Analysis.git
-Install dependencies:
-```
-```
-bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-Run Jupyter Notebook:
-```
-```
-bash
-jupyter notebook
-Open Titanic_EDA.ipynb and run the cells.
-```
 ## Key Findings
 - Female passengers had significantly higher survival rates than male passengers.
 - First-class passengers generally had better survival outcomes.
